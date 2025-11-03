@@ -260,24 +260,8 @@ Kernel → Restart & Run All
 
 All files will be generated in `/screenshots/`
 
----
-
-<a name="submission-checklist"></a>
-## 9. Submission Checklist
-
-- [x] `.ipynb` file with **full comments**  
-- [x] Original dataset (`SuperStore_data.csv`)  
-- [x] Cleaned dataset (`superstore_cleaned.csv`)  
-- [x] **All 15+ required screenshots** in `/screenshots/`  
-- [x] **Detailed `README.md`** (this file)  
-- [x] Repository is **public**  
-- [x] Instructor `s-pen-uc` added as **collaborator**  
-- [x] No sensitive data or API keys  
-
----
-
 <a name="references"></a>
-## 10. References
+## 9. References
 
 1. Kaggle Dataset: [roopspg/superstore-sales](https://www.kaggle.com/datasets/roopspg/superstore-sales)  
 2. Pandas Documentation: [pandas.pydata.org](https://pandas.pydata.org)  

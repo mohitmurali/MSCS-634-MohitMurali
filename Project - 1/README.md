@@ -1,7 +1,7 @@
 ---
-title: "MSCS 634 – Project Deliverable 1: Data Collection, Cleaning & Exploration"
-author: "Mohit Gokul Murali"
-date: "November 02, 2025"
+Title: "MSCS 634 – Project Deliverable 1: Data Collection, Cleaning & Exploration"
+Author: "Mohit Gokul Murali"
+Date: "November 02, 2025"
 ---
 
 **Student:** Mohit Gokul Murali  

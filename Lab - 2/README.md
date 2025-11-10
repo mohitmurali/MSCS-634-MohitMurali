@@ -1,4 +1,3 @@
-```markdown
 # MSCS_634_Lab_2 – Classification Using KNN and Radius Neighbors (RNN) on Wine Dataset
 
 **Author:** Mohit Gokul Murali  

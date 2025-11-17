@@ -1,11 +1,4 @@
----
-title: "MSCS 634 – Project Deliverable 2: Regression Modeling & Evaluation"
-author: "Mohit Gokul Murali"
-date: "November 16, 2025"
----
-
 **Student:** Mohit Gokul Murali  
-**X Handle:** @mohit_0415  
 **Course:** Advanced Big Data and Data Mining (MSCS-634-B01)  
 **Instructor:** Satish (s-pen-uc)  
 **Date:** November 16, 2025  
